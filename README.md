@@ -16,7 +16,8 @@ Tambahkan ordered list (daftar berurutan) menggunakan tag <.ol> seperti berikut:
 Setelah ordered list, tambahkan unordered list (daftar tidak berurutan) dengan tag <.ul> seperti ini:
 
 
-![Screenshot 2024-10-14 153236](https://github.com/user-attachments/assets/5d1bcae2-4214-44d1-8472-9b332f8ba630)
+![web2](https://github.com/user-attachments/assets/c0f4ac1a-5639-48dd-bbf8-fd81acc7b74c)
+
 <hr>
 <h2>3.</h2> Membuat Description List:
 
@@ -29,7 +30,8 @@ Setelah ordered list, tambahkan unordered list (daftar tidak berurutan) dengan t
 3. <dd.> (Definition Description): Elemen ini memberikan penjelasan atau deskripsi untuk istilah yang didefinisikan oleh <dt.>. 
 
 
-![Screenshot 2024-10-14 153302](https://github.com/user-attachments/assets/1b13d6de-844e-4bbf-be81-d0138234b0d7)
+![web3](https://github.com/user-attachments/assets/9d4a1c03-0d82-4487-a526-2c444a62fe0b)
+
 <hr>
 <h2>4.</h2>  
 
@@ -53,9 +55,10 @@ Digunakan untuk mendefinisikan satu baris dalam tabel.
 
 Digunakan untuk mendefinisikan satu sel data dalam tabel.
 
-![Screenshot 2024-10-14 153424](https://github.com/user-attachments/assets/0f9169fa-e5b5-4645-9e89-b7eb1de82bd3)
+![web4](https://github.com/user-attachments/assets/222ee229-4f92-4003-ac07-f859c0cca69b)
 
-![Screenshot 2024-10-14 153545](https://github.com/user-attachments/assets/7e89e81f-69aa-471a-9ba0-81fb186a3720)
+
+
 <hr>
 <h2>5.</h2> . Membuat form
 Tambahkan elemen <form.> dengan atribut action yang menentukan tujuan pengolahan data dan method untuk menentukan cara pengiriman data (misalnya, POST).
