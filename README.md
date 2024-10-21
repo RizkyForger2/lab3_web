@@ -87,6 +87,7 @@ Di dalam elemen <style.>, buat aturan CSS yang mengatur tampilan label, input, d
 Aturan CSS dapat mencakup pengaturan lebar, border, warna latar belakang, warna teks, dan padding.
 <br>
 
+
 ![web3](https://github.com/user-attachments/assets/0130008f-fa66-4054-82a0-ff773757b4a5)
 
 <hr>
@@ -96,6 +97,7 @@ Aturan CSS dapat mencakup pengaturan lebar, border, warna latar belakang, warna 
 <option.>: Mendefinisikan opsi dalam dropdown menu atau listbox. Atribut value dapat ditambahkan untuk menetapkan nilai yang akan dikirim saat opsi tersebut dipilih..
 <br>
   
+
 
 ![web4](https://github.com/user-attachments/assets/37b73831-2d3e-4c1f-8b4d-2555cd069852)
 
