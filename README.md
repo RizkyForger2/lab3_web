@@ -5,7 +5,9 @@
 Tambahkan ordered list (daftar berurutan) menggunakan tag <.ol> seperti berikut:
 
 
-![Screenshot 2024-10-14 153144](https://github.com/user-attachments/assets/7b6fd3d4-262e-4115-b783-47cc12648d71)
+![web1](https://github.com/user-attachments/assets/c043e0d6-acb4-4904-abeb-1fbade3f07a2)
+
+
 <hr>
 <h2>2.</h2>Membuat Unordered List:
 
