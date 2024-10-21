@@ -5,7 +5,7 @@
 Tambahkan ordered list (daftar berurutan) menggunakan tag <.ol> seperti berikut:
 
 
-![web1](https://github.com/user-attachments/assets/c043e0d6-acb4-4904-abeb-1fbade3f07a2)
+
 
 
 <hr>
@@ -15,8 +15,6 @@ Tambahkan ordered list (daftar berurutan) menggunakan tag <.ol> seperti berikut:
 
 Setelah ordered list, tambahkan unordered list (daftar tidak berurutan) dengan tag <.ul> seperti ini:
 
-
-![web2](https://github.com/user-attachments/assets/c0f4ac1a-5639-48dd-bbf8-fd81acc7b74c)
 
 <hr>
 <h2>3.</h2> Membuat Description List:
@@ -29,8 +27,8 @@ Setelah ordered list, tambahkan unordered list (daftar tidak berurutan) dengan t
 
 3. <dd.> (Definition Description): Elemen ini memberikan penjelasan atau deskripsi untuk istilah yang didefinisikan oleh <dt.>. 
 
+![web1](https://github.com/user-attachments/assets/c043e0d6-acb4-4904-abeb-1fbade3f07a2)
 
-![web3](https://github.com/user-attachments/assets/9d4a1c03-0d82-4487-a526-2c444a62fe0b)
 
 <hr>
 <h2>4.</h2>  
@@ -53,9 +51,10 @@ Digunakan untuk mendefinisikan satu baris dalam tabel.
 
 5. <td.></td>:
 
+
 Digunakan untuk mendefinisikan satu sel data dalam tabel.
 
-![web4](https://github.com/user-attachments/assets/222ee229-4f92-4003-ac07-f859c0cca69b)
+![web2](https://github.com/user-attachments/assets/6394a4c2-793b-41b4-879d-e40a324778ea)
 
 
 
@@ -88,7 +87,7 @@ Di dalam elemen <style.>, buat aturan CSS yang mengatur tampilan label, input, d
 Aturan CSS dapat mencakup pengaturan lebar, border, warna latar belakang, warna teks, dan padding.
 <br>
 
-![Screenshot 2024-10-14 154136](https://github.com/user-attachments/assets/b4340b0e-c649-44ee-aae5-354e0a394412)
+![web3](https://github.com/user-attachments/assets/0130008f-fa66-4054-82a0-ff773757b4a5)
 
 <hr>
 
@@ -97,6 +96,6 @@ Aturan CSS dapat mencakup pengaturan lebar, border, warna latar belakang, warna 
 <option.>: Mendefinisikan opsi dalam dropdown menu atau listbox. Atribut value dapat ditambahkan untuk menetapkan nilai yang akan dikirim saat opsi tersebut dipilih..
 <br>
   
-![Screenshot 2024-10-14 154222](https://github.com/user-attachments/assets/758b8f1d-72e8-4ce9-bc3f-90ac89bebb98)
 
+![web4](https://github.com/user-attachments/assets/37b73831-2d3e-4c1f-8b4d-2555cd069852)
 
